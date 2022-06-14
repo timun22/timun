@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to TimUn Pages
 
 You can use the [editor on GitHub](https://github.com/timun22/timun/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
